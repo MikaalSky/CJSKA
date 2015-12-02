@@ -2,7 +2,10 @@
 [![Code Climate](https://codeclimate.com/github/sparkstudios/CJSKA/badges/gpa.svg)](https://codeclimate.com/github/sparkstudios/CJSKA)
 [![Issue Count](https://codeclimate.com/github/sparkstudios/CJSKA/badges/issue_count.svg)](https://codeclimate.com/github/sparkstudios/CJSKA)
 
-What on earth might this be?? Nobody (except [the team](#the-team)) knows...
+Yet another version of the Contest Judging System for Khan Academy.
+
+## Why?
+The old one had a lot of things that we didn't like, or just couldn't do what we wanted to do with those resourced. It made more sense just to start fresh and that's what we're doing. This is CJSKA 3.0! (In Development...!)
 
 ## The Team
 Without these people, this project would be nothing.
