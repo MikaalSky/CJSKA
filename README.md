@@ -5,7 +5,7 @@
 Yet another version of the Contest Judging System for Khan Academy.
 
 ## Why?
-The old one had a lot of things that we didn't like, or just couldn't do what we wanted to do with those resourced. It made more sense just to start fresh and that's what we're doing. This is CJSKA 3.0! (In Development...!)
+The old one had a lot of things that we didn't like, or just couldn't do what we wanted to do with those resourced. It made more sense just to start fresh, so that's what we're up to on this repo. This is CJSKA 3.0! (In Development...!)
 
 ## The Team
 Without these people, this project would be nothing.
